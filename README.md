@@ -1,8 +1,16 @@
 # Hi, I'm Mohamed Ali 👋
 
-**Full Stack Developer** based in Cairo, Egypt. I build web applications end to end with React, Next.js, Node.js, and Express, and I enjoy adding AI features (LLM APIs, RAG) to real products.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=2F81F7&width=500&height=45&repeat=true&lines=Full+Stack+Developer;Backend+Developer)](https://github.com/Mohamedali22710)
+
+## About me
+
+Based in Cairo, Egypt. I build web applications end to end with React, Next.js, Node.js, and Express, and I enjoy adding AI features (LLM APIs, RAG) to real products.
 
 I studied GIS at Aswan University and completed two Information Technology Institute (ITI) tracks: Software Development (Web Fundamentals) and Front-End & Cross-Platform Mobile Development with Gen AI Integration.
+
+<p align="center">
+  <img src="coding.gif" alt="Coding" width="320" />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedali74)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moh74amedali@gmail.com)
