@@ -1,73 +1,57 @@
-# Hi, I'm Mohamed Ali 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=2F81F7&width=500&height=45&repeat=true&lines=Full+Stack+Developer;Backend+Developer)](https://github.com/Mohamedali22710)
-
-## About me
-
-Based in Cairo, Egypt. I build web applications end to end with React, Next.js, Node.js, and Express, and I enjoy adding AI features (LLM APIs, RAG) to real products.
-
-I studied GIS at Aswan University and completed two Information Technology Institute (ITI) tracks: Software Development (Web Fundamentals) and Front-End & Cross-Platform Mobile Development with Gen AI Integration.
-
 <p align="center">
-  <img src="coding.gif" alt="Coding" width="320" />
+<img src="assets/banner.svg" width="100%" alt="Mohamed Ali, Full Stack and Backend Developer based in Cairo, Egypt. Open to work."/>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedali74)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moh74amedali@gmail.com)
+<p align="center">
+<a href="mailto:moh74amedali@gmail.com"><img src="assets/contact-email.svg" width="33.05%" alt="Email: moh74amedali@gmail.com"/></a><!--
+--><a href="https://www.linkedin.com/in/mohamedali74"><img src="assets/contact-linkedin.svg" width="33.7%" alt="LinkedIn: mohamedali74"/></a><!--
+--><a href="https://github.com/Mohamedali22710"><img src="assets/contact-github.svg" width="33.05%" alt="GitHub: Mohamedali22710"/></a>
+</p>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<p align="center">
+<img src="assets/h-build.svg" width="100%" alt="01 What I build"/>
+<img src="assets/svc-web.svg" width="33.05%" alt="Web applications: responsive React and Next.js front ends in TypeScript, plus a cross-platform mobile app in React Native."/><!--
+--><img src="assets/svc-api.svg" width="33.7%" alt="APIs and data: REST APIs with Node.js and Express, JWT authentication and role-based access, backed by MongoDB and MySQL."/><!--
+--><img src="assets/svc-ai.svg" width="33.05%" alt="AI features and GIS: LLM-powered features with LangChain, OpenAI and Groq, and spatial data work with PostGIS."/>
+</p>
 
-**Front end**
+<br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+<img src="assets/h-work.svg" width="100%" alt="02 Featured work"/>
+<a href="https://innerheal.live/"><img src="assets/card-innerheal.svg" width="100%" alt="InnerHeal Assessment Platform. Freelance backend for an AI-powered assessment platform, in production. Node.js, Express, TypeScript, MongoDB, Groq API, PDFKit."/></a>
+<a href="https://github.com/3mrNour/InsightO"><img src="assets/card-insighto.svg" width="100%" alt="InsightO. AI-powered 360 degree evaluation platform. I built the Q&A form module, the answer-analysis engine and per-user AI token tracking."/></a>
+<a href="https://github.com/Mohamedali22710/Delivery-mangment-system"><img src="assets/card-delivery.svg" width="49.9%" alt="Delivery Management System. Authentication with JWT and role-based access, and the driver feature. Node.js, Express, MongoDB."/></a><!--
+--><a href="https://github.com/Mohamedali22710/aiCHatGpt"><img src="assets/card-chatgpt.svg" width="49.9%" alt="AI ChatGPT Clone. Backend replicating core ChatGPT behavior through the OpenAI API."/></a>
+<a href="https://github.com/Mohamedali22710/Bookapp"><img src="assets/card-bookapp.svg" width="49.9%" alt="BookApp. Cross-platform React Native book discovery app for Android and iOS."/></a><!--
+--><a href="https://mohamedali22710.github.io/HeadPhoneStore/"><img src="assets/card-headphones.svg" width="49.9%" alt="Headphone Store. Responsive e-commerce site with a dynamic cart and filtering."/></a>
+</p>
 
-**Back end**
+<br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<p align="center">
+<img src="assets/h-design.svg" width="100%" alt="03 System design"/>
+<img src="assets/architecture.svg" width="100%" alt="Delivery Management System architecture. A web client talks over REST and JSON to a Node.js and Express API with JWT authentication, role-based access for admins and drivers, driver and shipment modules, and validation. The API stores data in MongoDB. Shipments move through the statuses pending, assigned, in-transit and delivered."/>
+</p>
 
-**Databases**
+<br/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+<img src="assets/h-stack.svg" width="100%" alt="04 Tech stack"/>
+<img src="assets/stack.svg" width="100%" alt="Languages: JavaScript, TypeScript, PHP, Python, C#, SQL. Front end: React, Next.js, Tailwind CSS, Bootstrap 5, Material UI, HTML5, CSS3. Back end: Node.js, Express, Laravel, REST APIs, JWT, RBAC. Data: MongoDB, MySQL, PostgreSQL, PostGIS. Mobile: React Native. AI: LangChain.js, RAG, OpenAI API, Groq API. GIS: ArcGIS Pro, QGIS, GeoPandas, GDAL/OGR. Tools: Git, Docker, Linux, CI/CD."/>
+</p>
 
-**Mobile, tools, and AI**
+<br/>
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+<img src="assets/h-ship.svg" width="100%" alt="05 How I build"/>
+<img src="assets/pipeline.svg" width="100%" alt="Understand requirements and API contracts, design the schema and auth rules, build clean modular code, then ship, debug in production and improve."/>
+</p>
 
-AI: LangChain.js, RAG pipelines, OpenAI API, Groq API, MongoDB Atlas Vector Search.
-GIS: PostGIS, GeoJSON, ArcGIS Pro, QGIS, GeoPandas.
+<br/>
 
----
-
-## 🚀 Featured Projects
-
-| Project | What I built | Stack |
-| --- | --- | --- |
-| [**InnerHeal**](https://innerheal.live/) | Freelance backend for an AI-powered assessment platform that analyzes user answers and generates automated insights and PDF reports. I deployed it to production. | Node.js, Express, TypeScript, MongoDB, Groq API, PDFKit |
-| [**InsightO**](https://github.com/3mrNour/InsightO) | AI-powered 360° evaluation platform (ITI final project). I built the dynamic Q&A form module, the AI answer-analysis engine (strengths, weaknesses, action plans), and per-user AI token tracking with feature-level blocking. | React, TypeScript, Node.js, Express, MongoDB, LangChain |
-| [**Delivery Management System**](https://github.com/Mohamedali22710/Delivery-mangment-system) | Logistics system for shipments and driver tracking. I built the authentication (JWT with role-based access control) and the driver feature, across front end and back end. | Node.js, Express, MongoDB, JWT |
-| [**AI ChatGPT Clone**](https://github.com/Mohamedali22710/aiCHatGpt) | Backend that replicates core ChatGPT functionality through the OpenAI API, with modular structure, validation, and error handling. | Node.js, Express, OpenAI API |
-| [**BookApp**](https://github.com/Mohamedali22710/Bookapp) | Cross-platform (Android and iOS) book discovery app with authentication, search, and detail screens. | React Native, JavaScript |
-| [**Headphone Store**](https://mohamedali22710.github.io/HeadPhoneStore/) | Responsive e-commerce site with a dynamic cart and filtering by category and price. | HTML, CSS, JavaScript |
-
----
-
-## 📫 Let's connect
-
-I'm open to Full Stack, Front-End, and Backend opportunities. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/mohamedali74) or [email](mailto:moh74amedali@gmail.com).
+<p align="center">
+<img src="assets/footer.svg" width="100%" alt="Open to Full Stack, Front-End and Backend roles. Based in Cairo, Egypt."/>
+</p>
