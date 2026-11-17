@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" role="img" font-family="Inter, 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<defs></defs>
+
+<rect x="6" y="6" width="888" height="388" rx="14" fill="#12161D" stroke="#232A35"/>
+<text x="30" y="38" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#5C6675" letter-spacing="1.2">DELIVERY MANAGEMENT SYSTEM  ·  ARCHITECTURE</text>
+
+<g>
+  <rect x="30" y="70" width="190" height="150" rx="10" fill="#1A1F28" stroke="#2E3644"/>
+  <text x="46" y="96" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#5C6675" letter-spacing="1">CLIENTS</text>
+  <text x="46" y="124" font-size="15" font-weight="600" fill="#EDEFF2">Web client</text>
+  <text x="46" y="146" font-size="12.5" fill="#9AA3B2">Login and register</text>
+  <text x="46" y="164" font-size="12.5" fill="#9AA3B2">Driver feature</text>
+  <text x="46" y="182" font-size="12.5" fill="#9AA3B2">Role-based access</text>
+</g>
+
+<g stroke="#3E8EFF" stroke-width="1.5" fill="none">
+  <path d="M220 145 H290" stroke-dasharray="5 4"><animate attributeName="stroke-dashoffset" values="18;0" dur="1.2s" repeatCount="indefinite"/></path>
+  <path d="M286 140 L294 145 L286 150" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="255" y="132" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10" fill="#5C6675">REST / JSON</text>
+
+<g>
+  <rect x="296" y="56" width="330" height="178" rx="10" fill="#1A1F28" stroke="#3E8EFF" stroke-opacity="0.55"/>
+  <text x="314" y="82" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#5C6675" letter-spacing="1">API  ·  NODE.JS + EXPRESS</text>
+  <rect x="314" y="96" width="140" height="30" rx="6" fill="#3E8EFF" fill-opacity="0.13" stroke="#3E8EFF" stroke-opacity="0.35"/>
+  <text x="384" y="116" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#63A6FF">Auth · JWT</text>
+  <rect x="466" y="96" width="142" height="30" rx="6" fill="#3E8EFF" fill-opacity="0.13" stroke="#3E8EFF" stroke-opacity="0.35"/>
+  <text x="537" y="116" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#63A6FF">RBAC · Admin/Driver</text>
+  <rect x="314" y="136" width="140" height="30" rx="6" fill="#3E8EFF" fill-opacity="0.13" stroke="#3E8EFF" stroke-opacity="0.35"/>
+  <text x="384" y="156" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#63A6FF">Drivers</text>
+  <rect x="466" y="136" width="142" height="30" rx="6" fill="#3E8EFF" fill-opacity="0.13" stroke="#3E8EFF" stroke-opacity="0.35"/>
+  <text x="537" y="156" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#63A6FF">Shipments</text>
+  <rect x="314" y="176" width="294" height="30" rx="6" fill="#1A1F28" stroke="#2E3644"/>
+  <text x="461" y="196" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#9AA3B2">Clean, modular structure</text>
+</g>
+
+<g stroke="#3E8EFF" stroke-width="1.5" fill="none">
+  <path d="M626 145 H696" stroke-dasharray="5 4"><animate attributeName="stroke-dashoffset" values="18;0" dur="1.2s" repeatCount="indefinite"/></path>
+  <path d="M692 140 L700 145 L692 150" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+<g>
+  <rect x="702" y="70" width="168" height="150" rx="10" fill="#1A1F28" stroke="#2E3644"/>
+  <text x="718" y="96" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#5C6675" letter-spacing="1">DATABASE</text>
+  <text x="718" y="124" font-size="15" font-weight="600" fill="#EDEFF2">MongoDB</text>
+  <text x="718" y="146" font-size="12.5" fill="#9AA3B2">Users and roles</text>
+  <text x="718" y="164" font-size="12.5" fill="#9AA3B2">Drivers</text>
+  <text x="718" y="182" font-size="12.5" fill="#9AA3B2">Shipments</text>
+</g>
+
+<line x1="30" y1="262" x2="870" y2="262" stroke="#232A35"/>
+<text x="30" y="292" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#5C6675" letter-spacing="1.2">SHIPMENT STATUS WORKFLOW</text>
+<rect x="30" y="310" width="150" height="40" rx="8" fill="#FBBF24" fill-opacity="0.12" stroke="#FBBF24" stroke-opacity="0.5"/><circle cx="50" cy="330" r="4.5" fill="#FBBF24"/><text x="64" y="335" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="500" fill="#FBBF24">pending</text><path d="M188 330 H232" stroke="#5C6675" stroke-width="1.5" stroke-linecap="round"/><path d="M226 325 L233 330 L226 335" stroke="#5C6675" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><rect x="242" y="310" width="150" height="40" rx="8" fill="#3E8EFF" fill-opacity="0.12" stroke="#3E8EFF" stroke-opacity="0.5"/><circle cx="262" cy="330" r="4.5" fill="#3E8EFF"/><text x="276" y="335" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="500" fill="#3E8EFF">assigned</text><path d="M400 330 H444" stroke="#5C6675" stroke-width="1.5" stroke-linecap="round"/><path d="M438 325 L445 330 L438 335" stroke="#5C6675" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><rect x="454" y="310" width="150" height="40" rx="8" fill="#63A6FF" fill-opacity="0.12" stroke="#63A6FF" stroke-opacity="0.5"/><circle cx="474" cy="330" r="4.5" fill="#63A6FF"/><text x="488" y="335" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="500" fill="#63A6FF">in-transit</text><path d="M612 330 H656" stroke="#5C6675" stroke-width="1.5" stroke-linecap="round"/><path d="M650 325 L657 330 L650 335" stroke="#5C6675" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><rect x="666" y="310" width="150" height="40" rx="8" fill="#34D399" fill-opacity="0.12" stroke="#34D399" stroke-opacity="0.5"/><circle cx="686" cy="330" r="4.5" fill="#34D399"/><text x="700" y="335" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="500" fill="#34D399">delivered</text><text x="30" y="378" font-size="12.5" fill="#9AA3B2">I built the authentication and the driver feature across front end and back end.</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" font-family="Inter, 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<radialGradient id="glow" cx="18%" cy="20%" r="70%">
+  <stop offset="0" stop-color="#3E8EFF" stop-opacity="0.16"/>
+  <stop offset="1" stop-color="#3E8EFF" stop-opacity="0"/>
+</radialGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+  <path d="M30 0H0V30" fill="none" stroke="#232A35" stroke-opacity="0.45" stroke-width="1"/>
+</pattern>
+<clipPath id="ca"><rect x="48" y="154" width="336.0" height="44">
+  <animate attributeName="width" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0350;0.0450;0.0550;0.0650;0.0750;0.0850;0.0950;0.1050;0.1150;0.1250;0.1350;0.1450;0.1550;0.1650;0.1750;0.1850;0.1950;0.2050;0.2150;0.2250;0.4417;0.4500;0.4583;0.4667;0.4750;0.4833;1.0000" values="0.0;16.8;33.6;50.4;67.2;84.0;100.8;117.6;134.4;151.2;168.0;184.8;201.6;218.4;235.2;252.0;268.8;285.6;302.4;319.2;336.0;280.0;224.0;168.0;112.0;56.0;0.0;0.0"/>
+</rect></clipPath>
+<clipPath id="cb"><rect x="48" y="154" width="0" height="44">
+  <animate attributeName="width" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.5267;0.5367;0.5467;0.5567;0.5667;0.5767;0.5867;0.5967;0.6067;0.6167;0.6267;0.6367;0.6467;0.6567;0.6667;0.6767;0.6867;0.9083;0.9167;0.9250;0.9333;0.9417;0.9500;1.0000" values="0.0;16.8;33.6;50.4;67.2;84.0;100.8;117.6;134.4;151.2;168.0;184.8;201.6;218.4;235.2;252.0;268.8;285.6;238.0;190.4;142.8;95.2;47.6;0.0;0.0"/>
+</rect></clipPath>
+</defs>
+
+<rect width="900" height="330" rx="16" fill="#0A0D12"/>
+<rect width="900" height="330" rx="16" fill="url(#grid)"/>
+<rect width="900" height="330" rx="16" fill="url(#glow)"/>
+<rect x="0.5" y="0.5" width="899" height="329" rx="16" fill="none" stroke="#232A35"/>
+
+<g>
+  <circle cx="62" cy="55.5" r="4" fill="#34D399"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
+  <rect x="48" y="44" width="215.8" height="23" rx="4" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.35"/>
+  <text x="161.9" y="59.5" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="500" fill="#34D399">OPEN TO WORK  ·  CAIRO, EGYPT</text>
+</g>
+
+<text x="46" y="138" font-size="58" font-weight="800" letter-spacing="-1.5" fill="#EDEFF2">Mohamed Ali</text>
+
+<g font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="28" font-weight="600" fill="#63A6FF">
+  <text x="48" y="188" textLength="336.0" lengthAdjust="spacing" clip-path="url(#ca)">Full Stack Developer</text>
+  <text x="48" y="188" textLength="285.6" lengthAdjust="spacing" clip-path="url(#cb)">Backend Developer</text>
+</g>
+<rect y="163" width="3" height="30" fill="#3E8EFF" x="384.0">
+  <animate attributeName="x" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0350;0.0450;0.0550;0.0650;0.0750;0.0850;0.0950;0.1050;0.1150;0.1250;0.1350;0.1450;0.1550;0.1650;0.1750;0.1850;0.1950;0.2050;0.2150;0.2250;0.4417;0.4500;0.4583;0.4667;0.4750;0.4833;0.5267;0.5367;0.5467;0.5567;0.5667;0.5767;0.5867;0.5967;0.6067;0.6167;0.6267;0.6367;0.6467;0.6567;0.6667;0.6767;0.6867;0.9083;0.9167;0.9250;0.9333;0.9417;0.9500;1.0000" values="48.0;64.8;81.6;98.4;115.2;132.0;148.8;165.6;182.4;199.2;216.0;232.8;249.6;266.4;283.2;300.0;316.8;333.6;350.4;367.2;384.0;328.0;272.0;216.0;160.0;104.0;48.0;64.8;81.6;98.4;115.2;132.0;148.8;165.6;182.4;199.2;216.0;232.8;249.6;266.4;283.2;300.0;316.8;333.6;286.0;238.4;190.8;143.2;95.6;48.0;48.0"/>
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+
+<text x="48" y="238" font-size="15" fill="#9AA3B2">I build web apps end to end with React, Next.js and Node.js,</text>
+<text x="48" y="260" font-size="15" fill="#9AA3B2">and add AI features (LLM APIs, RAG) to real products.</text>
+
+<text x="48" y="298" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#5C6675" letter-spacing="0.4">REACT · NEXT.JS · NODE.JS · REST APIS · MONGODB · POSTGRESQL</text>
+
+<g transform="translate(560,70)">
+  <rect width="300" height="180" rx="12" fill="#12161D" stroke="#232A35"/>
+  <circle cx="20" cy="20" r="5" fill="#F87171"/><circle cx="38" cy="20" r="5" fill="#FBBF24"/><circle cx="56" cy="20" r="5" fill="#34D399"/>
+  <line x1="0" y1="40" x2="300" y2="40" stroke="#232A35"/>
+  <g font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5">
+    <text x="20" y="68" fill="#5C6675">$ curl /api/health</text>
+    <text x="20" y="90" fill="#9AA3B2">{ "status": <tspan fill="#34D399">"operational"</tspan> }</text>
+    <text x="20" y="122" fill="#5C6675">$ GET /api/shipments</text>
+    <text x="20" y="144" fill="#9AA3B2"><tspan fill="#34D399">200</tspan> OK  ·  JWT  ·  RBAC</text>
+    <text x="20" y="166" fill="#5C6675">$ <tspan fill="#3E8EFF">_</tspan><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></text>
+  </g>
+</g>
+
+</svg>

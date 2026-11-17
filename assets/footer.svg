@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130" role="img" font-family="Inter, 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<defs><radialGradient id="g" cx="85%" cy="0%" r="80%"><stop offset="0" stop-color="#3E8EFF" stop-opacity="0.14"/><stop offset="1" stop-color="#3E8EFF" stop-opacity="0"/></radialGradient></defs>
+
+<rect x="6" y="6" width="888" height="118" rx="14" fill="#12161D" stroke="#232A35"/>
+<rect x="6" y="6" width="888" height="118" rx="14" fill="url(#g)"/>
+<circle cx="40" cy="46" r="4" fill="#34D399"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="54" y="50" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#34D399" letter-spacing="1.2">STATUS: OPERATIONAL</text>
+<text x="30" y="82" font-size="19" font-weight="700" fill="#EDEFF2">Open to Full Stack, Front-End and Backend roles.</text>
+<text x="30" y="106" font-size="13" fill="#9AA3B2">Based in Cairo, Egypt  ·  Arabic (native), English (very good)  ·  moh74amedali@gmail.com</text>
+
+</svg>
